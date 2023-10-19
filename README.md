@@ -1,7 +1,8 @@
 # TDC_Impedence_Control
 
 ## pybullet setup 
-'''bash
+To install pybullet simple run 
+'''shell
 pip install pybullet
 '''
 
